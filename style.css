@@ -1,0 +1,58 @@
+.nav_img{
+    width: 63px;
+    height: 65px;
+}
+.row{
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.right{
+    font-size: medium;
+}
+html,body{
+    background-color: rgb(17,32,42);
+    color: rgb(17,32,42);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}
+.navbar{
+    background-color: rgb(17,32,42);
+}
+.btn{
+    color: white;
+    top: 0px;
+}
+.first{
+    background-color: rgb(17,32,42);
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+a.btn{
+    background-color: transparent;
+    border: 1px solid darkgray;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+.btn:hover{
+    border-color: white;
+    color: white;
+}
+a.btnn{
+    background-color: crimson;
+    border: crimson;
+    color: white;
+    text-align: center;
+}
+.btnn:hover{
+    background-color: rgb(255, 75, 105);
+    color: white;
+    border: rgb(255, 75, 105);
+}
